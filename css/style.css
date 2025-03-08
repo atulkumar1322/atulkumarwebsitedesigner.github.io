@@ -13229,7 +13229,7 @@ textarea.form-control {
 
 @media screen and (max-width:575.98px) {
   .profile .about-img {
-    text-align: center;
+    margin: auto;
   }
 
   .profile .about-info {
